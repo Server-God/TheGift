@@ -18,6 +18,7 @@ namespace TheGift.Items
 			item.value = 10000000;
 			item.rare = 13;
 			item.defense = 60000;
+			item.accessory = true;
 		}
 		public override void AddRecipes()
 		{
