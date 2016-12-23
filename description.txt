@@ -1,0 +1,43 @@
+TheGift
+~made by moses~
+www.drmoses.mygamesonline.org
+
+Items:
+
+Weapon Fuel (used to make Weapons and Advanced Items):
+1 Gold Bar + 3 Platinum Coins (the better deal is to get it from the NPC for 1 copper coin!)
+
+
+Purity Totem (coming in a future update):
+Obtainable only through the NPC
+
+Retro Joystick (summons Pac Man, sprite needed plz!)
+5 Weapon Fuel(s?)
+
+Kappa Potion (Generates 600 health every second, helps with moon lord)
+obtainable only through the NPC :( (expensive!)
+
+Treasure Bag of Down Under (no recipe, doesnt work yet :( but drops the Weapons were about to talk about)
+obtainable only through the NPC
+
+The Confettin (celebratory item, minimal damage)
+53 Gold Bars + 19 Blue Rockets + 10 Weapon Fuel
+
+Weapons:
+
+Glitch Lord Sword (Second Best Weapon this mod adds, pretty powerful)
+62 Solar Fragments + 10 Weapon Fuel
+
+The Jolt (With this and the Kappa Potion combined, you can defeat the Moon Lord in just one hit!)
+9 Diamond Gemspark Blocks + 1 Burning Hades Dye (obtainable by selling dye trader Srange Plants) + 60 Weapon Fuel
+
+Miscellaneous:
+
+The NPC I Keep Talking About(sell stuff you can't craft)
+Use CheatSheet to get him, still working out bugs.
+
+Pac Man (pet, useless)
+use the Retro Joystick to summon
+
+Purity Wisp (coming in a future update)
+use the purity totem to get this boss dude

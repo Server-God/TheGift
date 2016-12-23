@@ -1,0 +1,9 @@
+author = inegativity
+version = 0.1
+displayName = TheGift
+homepage = 
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, _ideas\*
+includePDB = true
