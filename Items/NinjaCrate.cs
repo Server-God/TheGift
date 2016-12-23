@@ -13,6 +13,8 @@ namespace TheGift.Items
 			item.CloneDefaults(ItemID.MasterNinjaGear);
 			item.name = "Ninja Supply Crate";
 			item.defense = 60000;
+			item.width = 50;
+			item.height = 50;
 		}
 
 		public override void UpdateEquip(Player player)
