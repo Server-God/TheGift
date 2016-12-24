@@ -88,8 +88,8 @@ namespace TheGift.Projectiles
 						}
 						else if (type == TileID.Trees && Main.tile[k - 1, l].type == TileID.Trees)
 						{
-							Main.tile[k, l].type = (ushort)mod.TileType("DerpTree");
-							Main.tile[k - 1, l].type = (ushort)mod.TileType("DerpTree");
+							Main.tile[k, l].type = (ushort)mod.TileType("DerpSapling");
+							Main.tile[k - 1, l].type = (ushort)mod.TileType("DerpSapling");
 							WorldGen.SquareTileFrame(k, l, true);
 							NetMessage.SendTileSquare(-1, k, l, 1);
 						}
