@@ -14,7 +14,7 @@ namespace TheGift.Items.Placeable
 			item.maxStack = 99;
 			AddTooltip("Grows Derp!");
 			item.useTurn = true;
-			item.autoReuse = false;
+			item.autoReuse = true;
 			item.useAnimation = 15;
 			item.useTime = 10;
 			item.useStyle = 1;
