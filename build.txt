@@ -1,8 +1,8 @@
-author = inegativity
+author = glitchlord
 version = 0.1
 displayName = TheGift
-homepage = 
-hideCode = false
+homepage = https://github.com/moseswizz/TheGift/wiki
+hideCode = true
 hideResources = false
 includeSource = true
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, _ideas\*

@@ -7,11 +7,11 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using TheGift.Items;
 
-namespace TheNewAge
+namespace TheGift
 {
-    public class TheNewAge: Mod
+    public class TheGift: Mod
     {
-        public TheNewAge()
+        public TheGift()
         {
             Properties = new ModProperties()
             {

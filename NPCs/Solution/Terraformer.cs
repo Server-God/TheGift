@@ -135,7 +135,6 @@ namespace TheGift.NPCs.Solution
 
 		public override void SetupShop(Chest shop, ref int nextSlot)
 		{
-			nextSlot++;
 			shop.item[nextSlot].SetDefaults(ItemID.GreenSolution);
 			nextSlot++;
 			shop.item[nextSlot].SetDefaults(ItemID.RedSolution);
@@ -189,7 +188,7 @@ namespace TheGift.NPCs.Solution
 		public override void TownNPCAttackProj(ref int projType, ref int attackDelay)
 		{
 			projType = 603;
-			attackDelay = 1;
+			attackDelay = 0;
 		}
 
 		public override void TownNPCAttackProjSpeed(ref float multiplier, ref float gravityCorrection, ref float randomOffset)

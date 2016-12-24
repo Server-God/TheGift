@@ -30,11 +30,6 @@ namespace TheGift.Items
             return;
         }
 		
-		public override DrawAnimation GetAnimation()
-		{
-			// ticksperframe, frameCount
-			return new DrawAnimationVertical(5, 4);
-		}
 		
 
     }
